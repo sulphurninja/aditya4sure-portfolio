@@ -23,7 +23,7 @@ export const Work = [
     {
         id:3,
         name:"Rajya Loktantra",
-        description:"A Complete News Portal for Maharashtra"
+        description:"A Complete News Portal for Maharashtra",
         tags:["express","nodejs","mongodb"],
         
         demo:"http://www.rajyaloktantra.com",
