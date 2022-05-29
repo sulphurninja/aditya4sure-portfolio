@@ -5,57 +5,57 @@ export const Work = [
         id:1,
         name:"The Tech Walk",
         description:"Take a walkthrough of the latest trends, news in Programming and Technology , A Tech Blog",
-        tags:["react","gsap","styledComponents"],
+        tags:["nextjs","graphcms","tailwindcss"],
         
         demo:"https://thetechwalk.com/",
-        github:"https://github.com/codebucks27/Agency-website"
+        github:""
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"Leadcell B2B",
+        description:"Landing page for Leadcell B2B, a marketing and advertising company",
+        tags:["html","sass"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"https://www.leadcellb2b.com",
+        github:""
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        name:"Rajya Loktantra",
+        description:"A Complete News Portal for Maharashtra"
+        tags:["express","nodejs","mongodb"],
         
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        demo:"http://www.rajyaloktantra.com",
+        github:""
     },
     {
         id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
+        name:"Coming Soon",
+        description:"Something real cool, upcoming",
         tags:["react","styledComponents","react-router"],
         
-        demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
+        demo:"",
+        github:""
        
     },{
         id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
+        name:"Coming Soon",
+        description:"Something real cool, upcoming!",
         tags:["react","redux","framer-motion"],
         
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
+        demo:"",
+        github:""
         
     },
     {
         id:6,
-        name:"Responsive Navigation Menu",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
+        name:"Comin coming coming sooooon",
+        description:"lol",
         tags:["react","react-router","css"],
         
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-responsive-navbar"
+        demo:"",
+        github:""
         
     },
     
