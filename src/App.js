@@ -14,11 +14,14 @@ import { AnimatePresence } from "framer-motion";
 import SoundBar from "./subComponents/SoundBar";
 
 
+
 function App() {
 
   const location = useLocation();
   return <>
 
+<Head>
+</Head>
 
   <GlobalStyle />
 
